@@ -9,3 +9,9 @@ function cubo(valor){
 }
 
 console.log(cubo(5));
+
+function raizCuadrada(valor){
+    return Math.sqrt(valor);
+}
+
+console.log(raizCuadrada(25));
